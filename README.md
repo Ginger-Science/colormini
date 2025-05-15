@@ -1,3 +1,14 @@
+# Ginger Color Match Farcaster Mini App WIP
+
+## TODO
+
+### update manifest
+### verify on farcaster
+### add color match app & MC1R Rewards
+
+####  [Warpcast profile](https://warpcast.com/gingerscience) 
+
+------------------
 # MiniKit Template
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain --mini`](), configured with:
