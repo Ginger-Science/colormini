@@ -1,5 +1,7 @@
 # Ginger Color Match Farcaster Mini App WIP
 
+This repo is to implement the Ginger Color Match/MC1R Rewards App into FC Mini App
+
 ## TODO
 
 ### update manifest
